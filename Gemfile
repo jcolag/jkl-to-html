@@ -1,0 +1,3 @@
+gem 'kramdown'
+gem 'liquid'
+
